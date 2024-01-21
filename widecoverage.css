@@ -76,3 +76,57 @@ height: 27px;
 border: none;
 cursor: pointer;
 }
+
+@media screen and (max-width:900px) {
+
+.link-header {
+    display: none;
+}
+
+main {
+    flex-direction: column-reverse;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-header {
+    max-width: 91px;
+    height: 31px;
+    position: absolute;
+    right: 0%;
+    margin-right: 10px;
+}
+
+h1 {
+    font-size: 30px;
+    line-height: 30px;
+    max-width:278px;
+    height: 60px;
+    margin: 124px 20px 55px 57px ;
+    text-align: center;
+}
+
+p {
+    max-width:304px;
+    height: 165px;
+    margin: 0 43px 0 43px;
+    text-align: center;
+}
+
+.button-section {
+    width: 112px;
+    height: 27px;
+    font-size: 18px;
+    margin: 26px 139px 0 139px;
+}
+ 
+img {
+    width: 312px;
+    height: 288px;
+    text-align: center;
+    margin: 0 100px 100px 20px;
+    padding: auto;
+}
+
+}
