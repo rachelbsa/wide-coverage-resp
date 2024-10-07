@@ -6,7 +6,7 @@
 
 <p>Responsividade:<p>
 
-<img src=""/>
+<img src="https://github.com/rachelbsa/wide-coverage-resp/blob/main/responsividade%20wide.png?raw=true"/>
 
 <h3>Descrição</h3>
 
